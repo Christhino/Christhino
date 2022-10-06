@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Christhino
 - 👀 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+---
+Checkout my portfolio 👉 [toky-rt.me](https://christhino.netlify.app/)
+Checkout my portfolio 👉 [toky-rt.me](https://christhino.netlify.app/) <br>
+![](https://komarev.com/ghpvc/?username=Christhino&color=blueviolet&style=flat-square)  
 ---
 
 ### :hammer_and_wrench: Languages and Tools : 
@@ -27,5 +27,6 @@
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Christhino&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christhino&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Christhino&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=08EDFF1E&background=020625&ring=1321FE&fire=DD5007)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christhino&layout=compact&theme=vision-friendly-dark)]
+(https://git.io/streak-stats)
