@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Christhino
 - 👀 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 ---
-Checkout my portfolio 👉 [toky-rt.me](https://christhino.netlify.app/)
-Checkout my portfolio 👉 [toky-rt.me](https://christhino.netlify.app/) <br>
+Checkout my portfolio 👉(https://christhino.netlify.app/) <br>
 ![](https://komarev.com/ghpvc/?username=Christhino&color=blueviolet&style=flat-square)  
 ---
 
